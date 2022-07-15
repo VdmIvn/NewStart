@@ -47,6 +47,8 @@ public class FirstApp {
 
     public static void main(String[] args) {
 
+        String new = "for commit";
+
 
     createMap();
     createPlayer();
